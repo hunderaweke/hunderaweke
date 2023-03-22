@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @HunderaAwoke
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning at Adama Science Technology
+<h1 ALIGN=center>Hey 👋 I am Hundera </h1>
+
+
+## I am:
+
+
+- A Python Developer
+- A Front End Developer 
+- Cpp junior Developer
 
 <!---
 HunderaAwoke/HunderaAwoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

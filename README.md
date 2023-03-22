@@ -1,8 +1,6 @@
 <h1 ALIGN=center>Hey 👋 I am Hundera </h1>
 
-
 ## I am:
-
 
 - A Python Developer
 - A Front End Developer 

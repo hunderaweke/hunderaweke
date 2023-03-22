@@ -1,4 +1,4 @@
-<h1 ALIGN=center>Hey 👋 I am Hundera </h1>
+<h1 ALIGN=center>Hey 👋 I am ℍ𝕦𝕟𝕕𝕖𝕣𝕒 </h1>
 
 ## I am:
 
@@ -7,7 +7,3 @@
 - A Front End Developer 
 - Cpp junior Developer
 
-<!---
-HunderaAwoke/HunderaAwoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,4 +1,5 @@
 <h1 ALIGN=center>Hey 👋 I am Hundera </h1>
+<p align=center>
 
 ## I am:
 
@@ -7,7 +8,5 @@
 - A Front End Developer 
 - Cpp junior Developer
 
-<!---
-HunderaAwoke/HunderaAwoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunderaweke)](https://github.com/anuraghazra/github-readme-stats)
+</p>
